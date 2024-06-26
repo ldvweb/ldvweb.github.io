@@ -5,6 +5,8 @@
     font-family: "Montserrat", sans-serif;
 }
 
+@import "menu";
+
 html{
     overflow-x: hidden;
 }
@@ -325,6 +327,7 @@ body{
 .block-5{
     .items .item h3{
         width: 200px;
+        font-size: 25px;
     }
     .items .item p{
         font-size: 22px;
