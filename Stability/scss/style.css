@@ -388,7 +388,7 @@ body {
   margin-top: 90px;
 }
 .header .txt h2 {
-  color: #ffffff;
+  color: #3276FF;
   font-style: italic;
   font-weight: 600;
   text-shadow: 0px 0px 40px #AFC9EC;
@@ -609,6 +609,34 @@ body {
   width: 80%;
   margin-bottom: 70px;
   border-radius: 10px;
+}
+.block-3 .item {
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: inset 0px -80px 73px 25px rgba(0, 0, 0, 0.75);
+}
+.block-3 .item p {
+  color: #fff;
+}
+.block-3 .item-1 {
+  background: url(../img/slide/1.jpg) center center/cover no-repeat;
+}
+.block-3 .item-2 {
+  background: url(../img/slide/2.jpg) center center/cover no-repeat;
+}
+.block-3 .item-3 {
+  background: url(../img/slide/3.jpg) center center/cover no-repeat;
+}
+.block-3 .item-4 {
+  background: url(../img/slide/4.jpg) center center/cover no-repeat;
+}
+.block-3 .item-5 {
+  background: url(../img/slide/6.jpg) center center/cover no-repeat;
+}
+.block-3 .item-6 {
+  background: url(../img/slide/5.jpg) center center/cover no-repeat;
 }
 
 .block-4 {
